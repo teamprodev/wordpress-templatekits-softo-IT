@@ -1,0 +1,2777 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Softo IT Solutions & Business Elementor",
+    "page_builder": "elementor",
+    "kit_version": "1.0.3",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Home 1",
+            "screenshot": "screenshots\/form-home-1.jpg",
+            "source": "templates\/form-home-1.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/form-home-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Home 3",
+            "screenshot": "screenshots\/form-home-3.jpg",
+            "source": "templates\/form-home-3.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/form-home-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Home 2",
+            "screenshot": "screenshots\/form-home-2.png",
+            "source": "templates\/form-home-2.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/form-home-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Footer Home 3",
+            "screenshot": "screenshots\/form-footer-home-3.jpg",
+            "source": "templates\/form-footer-home-3.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/form-footer-home-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block (Testimonial 02 Of Home-03)",
+            "screenshot": "screenshots\/block-testimonial-02-of-home-03-.jpg",
+            "source": "templates\/block-testimonial-02-of-home-03-.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/block-testimonial-02-of-home-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block (Testimonial 02 Of Home-01)",
+            "screenshot": "screenshots\/block-testimonial-02-of-home-01-.jpg",
+            "source": "templates\/block-testimonial-02-of-home-01-.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/block-testimonial-02-of-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block ( Tab Case Study 01 ) IT Industry",
+            "screenshot": "screenshots\/block-tab-case-study-01-it-industry.jpg",
+            "source": "templates\/block-tab-case-study-01-it-industry.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/block-tab-case-study-01-it-industry\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block ( All Tab Case Study )",
+            "screenshot": "screenshots\/block-all-tab-case-study-.jpg",
+            "source": "templates\/block-all-tab-case-study-.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/block-all-tab-case-study\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block ( Tab Page About )",
+            "screenshot": "screenshots\/block-tab-page-about-.jpg",
+            "source": "templates\/block-tab-page-about-.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/block-tab-page-about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block (Tab Of Home 02)",
+            "screenshot": "screenshots\/block-tab-of-home-02-.jpg",
+            "source": "templates\/block-tab-of-home-02-.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/block-tab-of-home-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block (Testimonial 01 Of Home-03)",
+            "screenshot": "screenshots\/block-testimonial-01-of-home-03-.jpg",
+            "source": "templates\/block-testimonial-01-of-home-03-.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/block-testimonial-01-of-home-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block (Testimonial 01 Of Home-01)",
+            "screenshot": "screenshots\/block-testimonial-01-of-home-01-.jpg",
+            "source": "templates\/block-testimonial-01-of-home-01-.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/block-testimonial-01-of-home-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/home-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/home-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/home-3\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Members",
+            "screenshot": "screenshots\/team-members.jpg",
+            "source": "templates\/team-members.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/team-members\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "IT services",
+            "screenshot": "screenshots\/it-services.jpg",
+            "source": "templates\/it-services.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/it-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "IT Services Details",
+            "screenshot": "screenshots\/it-services-details.jpg",
+            "source": "templates\/it-services-details.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/it-services-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Study",
+            "screenshot": "screenshots\/case-study.jpg",
+            "source": "templates\/case-study.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/case-study\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Details",
+            "screenshot": "screenshots\/case-details.jpg",
+            "source": "templates\/case-details.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/case-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/surielementor.com\/softokit\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.5.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.8.8",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "team3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/team3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonial-02-of-home-03-.json",
+                    "name": "Block (Testimonial 02 Of Home-03)"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 85834,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hotline-support-service-male-call-center-operator--VPGQZ7Q"
+        },
+        {
+            "filename": "bg-col-1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/bg-col-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonial-02-of-home-01-.json",
+                    "name": "Block (Testimonial 02 Of Home-01)"
+                },
+                {
+                    "source": "templates\/block-testimonial-01-of-home-01-.json",
+                    "name": "Block (Testimonial 01 Of Home-01)"
+                }
+            ],
+            "filesize": 13028,
+            "dimensions": [
+                570,
+                350
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "t2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/t2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonial-02-of-home-01-.json",
+                    "name": "Block (Testimonial 02 Of Home-01)"
+                }
+            ],
+            "filesize": 156479,
+            "dimensions": [
+                546,
+                546
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hotline-support-service-male-call-center-operator--VPGQZ7Q"
+        },
+        {
+            "filename": "case3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/case3-600x602.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-case-study-01-it-industry.json",
+                    "name": "Block ( Tab Case Study 01 ) IT Industry"
+                },
+                {
+                    "source": "templates\/block-all-tab-case-study-.json",
+                    "name": "Block ( All Tab Case Study )"
+                }
+            ],
+            "filesize": 59898,
+            "dimensions": [
+                740,
+                742
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-entrepreneur-lady-sitting-at-laptop-work-5G8GP26"
+        },
+        {
+            "filename": "software.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/software-600x602.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-case-study-01-it-industry.json",
+                    "name": "Block ( Tab Case Study 01 ) IT Industry"
+                },
+                {
+                    "source": "templates\/block-all-tab-case-study-.json",
+                    "name": "Block ( All Tab Case Study )"
+                }
+            ],
+            "filesize": 89614,
+            "dimensions": [
+                740,
+                742
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-programmers-working-in-development-sof-G82HJ3X"
+        },
+        {
+            "filename": "fiware.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/fiware-600x602.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-case-study-01-it-industry.json",
+                    "name": "Block ( Tab Case Study 01 ) IT Industry"
+                },
+                {
+                    "source": "templates\/block-all-tab-case-study-.json",
+                    "name": "Block ( All Tab Case Study )"
+                }
+            ],
+            "filesize": 63857,
+            "dimensions": [
+                740,
+                742
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmers-working-on-computer-program-PKQW53M"
+        },
+        {
+            "filename": "services1-home2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services1-home2-600x602.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-all-tab-case-study-.json",
+                    "name": "Block ( All Tab Case Study )"
+                }
+            ],
+            "filesize": 74250,
+            "dimensions": [
+                740,
+                742
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-uses-a-laptop-computer-with-many-monitors-LW24EV4"
+        },
+        {
+            "filename": "services2-home2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services2-home2-600x602.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-all-tab-case-study-.json",
+                    "name": "Block ( All Tab Case Study )"
+                }
+            ],
+            "filesize": 95105,
+            "dimensions": [
+                740,
+                742
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-team-meeting-brainstorming-working-concep-R64GX8L"
+        },
+        {
+            "filename": "research.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/research-600x602.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-all-tab-case-study-.json",
+                    "name": "Block ( All Tab Case Study )"
+                }
+            ],
+            "filesize": 74857,
+            "dimensions": [
+                740,
+                742
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/doing-different-researches-P395EWC"
+        },
+        {
+            "filename": "intro1home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/intro1home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-page-about-.json",
+                    "name": "Block ( Tab Page About )"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 89265,
+            "dimensions": [
+                470,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-passengers-in-airport-working-trip-XH4LGCZ"
+        },
+        {
+            "filename": "button-video.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/button-video.png",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-page-about-.json",
+                    "name": "Block ( Tab Page About )"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 8836,
+            "dimensions": [
+                184,
+                192
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "intro2home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/intro2home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-page-about-.json",
+                    "name": "Block ( Tab Page About )"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 43741,
+            "dimensions": [
+                220,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/student-with-laptop-ZANP2CT"
+        },
+        {
+            "filename": "intro3home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/intro3home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-page-about-.json",
+                    "name": "Block ( Tab Page About )"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 43530,
+            "dimensions": [
+                220,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-business-people-working-on-business-proje-S2Z57DR"
+        },
+        {
+            "filename": "introhome2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/introhome2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-of-home-02-.json",
+                    "name": "Block (Tab Of Home 02)"
+                }
+            ],
+            "filesize": 181541,
+            "dimensions": [
+                500,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-college-students-studying-in-the-school-l-68QXBQW"
+        },
+        {
+            "filename": "icon-video.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-video.png",
+            "templates": [
+                {
+                    "source": "templates\/block-tab-of-home-02-.json",
+                    "name": "Block (Tab Of Home 02)"
+                }
+            ],
+            "filesize": 2871,
+            "dimensions": [
+                141,
+                119
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "t1-1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/t1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-testimonial-01-of-home-03-.json",
+                    "name": "Block (Testimonial 01 Of Home-03)"
+                },
+                {
+                    "source": "templates\/block-testimonial-01-of-home-01-.json",
+                    "name": "Block (Testimonial 01 Of Home-01)"
+                }
+            ],
+            "filesize": 151793,
+            "dimensions": [
+                546,
+                546
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-friendly-operator-woman-agent-or-business-wo-Q6HQDDY"
+        },
+        {
+            "filename": "bg-footer-07.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/bg-footer-07-600x246.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 90376,
+            "dimensions": [
+                1600,
+                655
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mature-business-colleagues-discussing-work-togethe-MHNKJEK"
+        },
+        {
+            "filename": "logo-softo-04.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/logo-softo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 9279,
+            "dimensions": [
+                336,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-softo-05.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/logo-softo-05.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 9198,
+            "dimensions": [
+                336,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-parallax3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/bg-parallax3-600x290.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 67245,
+            "dimensions": [
+                1600,
+                773
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hotline-support-service-male-call-center-operator--VPGQZ7Q"
+        },
+        {
+            "filename": "shield.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/shield.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 3867,
+            "dimensions": [
+                64,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "optimization.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/optimization.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 4510,
+            "dimensions": [
+                75,
+                75
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "active.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/active.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 3218,
+            "dimensions": [
+                74,
+                74
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "introhome1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/introhome1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 166627,
+            "dimensions": [
+                470,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-programmer-man-making-winner-gesture-and--MLM2MCK"
+        },
+        {
+            "filename": "trophy.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/trophy.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1757,
+            "dimensions": [
+                53,
+                61
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "group.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/group.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 2919,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resume.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/resume.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 1943,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "report.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/report.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 1647,
+            "dimensions": [
+                41,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "digital-marketing.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/digital-marketing.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 1932,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "parallax1_1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/parallax1_1-600x362.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 166173,
+            "dimensions": [
+                1600,
+                965
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-college-students-studying-in-the-school-l-68QXBQW"
+        },
+        {
+            "filename": "support.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/support.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 2310,
+            "dimensions": [
+                60,
+                66
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "helpdesksupport.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/helpdesksupport.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 75111,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hotline-support-service-male-call-center-operator--VPGQZ7Q"
+        },
+        {
+            "filename": "managerit.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/managerit.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 90779,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-friendly-operator-woman-agent-or-business-wo-Q6HQDDY"
+        },
+        {
+            "filename": "cyberscurity.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/cyberscurity.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 108505,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/international-and-dangerous-hacker-talking-abot-th-QMFZ3TX"
+        },
+        {
+            "filename": "businessperfom.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/businessperfom.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 133822,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/senior-man-managing-his-fish-farm-PSN2G5P"
+        },
+        {
+            "filename": "hostingcloud.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/hostingcloud.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 113276,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-technician-installing-servers-in-enterprise-d-SHUDW6T"
+        },
+        {
+            "filename": "planbusiness.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/planbusiness.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 98685,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-working-in-call-center-LUX4T6H"
+        },
+        {
+            "filename": "background-1.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/background-1-600x273.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 170768,
+            "dimensions": [
+                1600,
+                727
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client-04.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/client-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 3562,
+            "dimensions": [
+                113,
+                72
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client-01.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/client-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 3825,
+            "dimensions": [
+                113,
+                82
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client-02.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/client-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 3726,
+            "dimensions": [
+                112,
+                72
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client-03.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/client-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 3729,
+            "dimensions": [
+                104,
+                82
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client-05.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/client-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 3045,
+            "dimensions": [
+                113,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client-06.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/client-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 3252,
+            "dimensions": [
+                113,
+                72
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "virus-attach.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/virus-attach-600x371.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 63543,
+            "dimensions": [
+                740,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-uses-a-laptop-computer-with-many-monitors-LW24EV4"
+        },
+        {
+            "filename": "unlock.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/unlock-600x371.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 72585,
+            "dimensions": [
+                740,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-business-people-discussing-over-laptop-BM5NS9E"
+        },
+        {
+            "filename": "ideal.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/ideal-600x371.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 70999,
+            "dimensions": [
+                740,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-beautiful-girls-with-tablet-computer-in-urban--GQCSV3N"
+        },
+        {
+            "filename": "parallax2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/parallax2-600x290.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 99160,
+            "dimensions": [
+                1600,
+                773
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements..com\/couple-using-tablet-GY5A945"
+        },
+        {
+            "filename": "support-01.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/08\/support-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 1486,
+            "dimensions": [
+                43,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "slider-01.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/slider-01-600x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 12871,
+            "dimensions": [
+                1600,
+                750
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/man.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 344246,
+            "dimensions": [
+                503,
+                751
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-male-entrepreneur-smiling-while-standing-aga-PU5LY94"
+        },
+        {
+            "filename": "parallax3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/parallax3-600x441.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 130031,
+            "dimensions": [
+                1600,
+                1175
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/presentation-in-consulting-seminar-about-business--XH4LGCH"
+        },
+        {
+            "filename": "shield-icon.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/shield-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 2382,
+            "dimensions": [
+                42,
+                48
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "analysis.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/analysis.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 2222,
+            "dimensions": [
+                44,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shield-icon-2.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/shield-icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 1593,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shield-icon-3.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/shield-icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 2092,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shield-icon-4.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/shield-icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 1672,
+            "dimensions": [
+                42,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shield-icon-5.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/shield-icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 2103,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "group-icon.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/group-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 2448,
+            "dimensions": [
+                38,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "resume-icon.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/resume-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 1562,
+            "dimensions": [
+                38,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "report-icon.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/report-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 2487,
+            "dimensions": [
+                41,
+                41
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "digital-marketing.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/digital-marketing.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 1932,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "background-home02.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/background-home02-600x371.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 86490,
+            "dimensions": [
+                1600,
+                990
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "case1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/case1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 96279,
+            "dimensions": [
+                370,
+                371
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-woman-using-computer-PA46RK6"
+        },
+        {
+            "filename": "case2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/case2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 113187,
+            "dimensions": [
+                370,
+                371
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-discussing-business-contract-29N9AWZ"
+        },
+        {
+            "filename": "case3-1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/case3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 94832,
+            "dimensions": [
+                370,
+                371
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/working-on-a-computer-XSF4887"
+        },
+        {
+            "filename": "teamnew1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/teamnew1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 31136,
+            "dimensions": [
+                196,
+                196
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-businesswoman-using-her-cellphone-against--4VHB7JC"
+        },
+        {
+            "filename": "teamnew2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/teamnew2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 22636,
+            "dimensions": [
+                168,
+                168
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/focused-young-african-businesswoman-standing-alone-3XP5S4Z"
+        },
+        {
+            "filename": "teamnew3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/teamnew3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 21699,
+            "dimensions": [
+                196,
+                196
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-business-executive-sending-texts-aga-BMUXFK2"
+        },
+        {
+            "filename": "teamnew4.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/teamnew4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 32138,
+            "dimensions": [
+                196,
+                196
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-businessman-looking-at-camera-BT5K5SH"
+        },
+        {
+            "filename": "background-hesitate.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/background-hesitate-600x351.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 83864,
+            "dimensions": [
+                1600,
+                935
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-home-3.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/logo-home-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 12261,
+            "dimensions": [
+                150,
+                165
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-slidehome3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/bg-slidehome3-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 110266,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/workaholic-businessman-on-break-PK3KUAX"
+        },
+        {
+            "filename": "bgcolumns.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/bgcolumns-600x465.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 67861,
+            "dimensions": [
+                800,
+                620
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/discussing-computer-language-XKM6VFG"
+        },
+        {
+            "filename": "analysis-1.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/analysis-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 1978,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services1-home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services1-home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 145997,
+            "dimensions": [
+                540,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-uses-a-laptop-computer-with-many-monitors-LW24EV4"
+        },
+        {
+            "filename": "icon-shield-01.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-shield-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 1496,
+            "dimensions": [
+                42,
+                48
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services2-home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services2-home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 117113,
+            "dimensions": [
+                540,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-customer-service-agents-with-headphones-com-DTWBCBL"
+        },
+        {
+            "filename": "icon-shield-02.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-shield-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 1581,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services3-home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services3-home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 130116,
+            "dimensions": [
+                540,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworkers-planning-startup-goals-W825GR6"
+        },
+        {
+            "filename": "icon-shield-03.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-shield-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 994,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services4-home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services4-home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 141657,
+            "dimensions": [
+                540,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-technician-installing-servers-in-enterprise-d-SHUDW6T"
+        },
+        {
+            "filename": "icon-shield-04.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-shield-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 1327,
+            "dimensions": [
+                34,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services5-home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services5-home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 165531,
+            "dimensions": [
+                540,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-businesspeople-discussing-business-plan-in-PP4JUZ9"
+        },
+        {
+            "filename": "icon-shield-05.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-shield-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 955,
+            "dimensions": [
+                42,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services6-home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services6-home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 168402,
+            "dimensions": [
+                570,
+                363
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-teenage-hacker-sitting-in-front-of-computer-78D9AFJ"
+        },
+        {
+            "filename": "services7-home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services7-home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 110577,
+            "dimensions": [
+                540,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/technicians-analyzing-charts-in-factory-office-W9BK47T"
+        },
+        {
+            "filename": "icon-shield-06.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-shield-06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 1401,
+            "dimensions": [
+                44,
+                44
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services8-home3.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services8-home3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 204558,
+            "dimensions": [
+                540,
+                330
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-working-with-servers-3WGXVDR"
+        },
+        {
+            "filename": "icon-shield-07.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-shield-07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-3.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 1366,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-pagetitle.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/bg-pagetitle-600x195.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 87816,
+            "dimensions": [
+                1600,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/row-of-female-operators-in-call-center-7X46XVS"
+        },
+        {
+            "filename": "intro-ceo.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/intro-ceo.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 137931,
+            "dimensions": [
+                470,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-ceo-U9YSJ7V"
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 87307,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-entrepreneur-lady-sitting-at-laptop-work-5G8GP26"
+        },
+        {
+            "filename": "team2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 87787,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-friendly-operator-woman-agent-or-business-wo-Q6HQDDY"
+        },
+        {
+            "filename": "team4.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/team4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 92632,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/customer-support-black-woman-manager-wearing-heads-YJBFHX9"
+        },
+        {
+            "filename": "support-back.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/support-back.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                },
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 7427,
+            "dimensions": [
+                223,
+                249
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-pagetitle-1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/bg-pagetitle-1-600x195.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 87828,
+            "dimensions": [
+                1600,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/row-of-female-operators-in-call-center-7X46XVS"
+        },
+        {
+            "filename": "team2-1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/team2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-members.json",
+                    "name": "Team Members"
+                }
+            ],
+            "filesize": 33522,
+            "dimensions": [
+                211,
+                287
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/focused-young-african-executive-wearing-a-suit-and-WUCJP8X"
+        },
+        {
+            "filename": "uiuxdesign.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/uiuxdesign.jpg",
+            "templates": [
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 80034,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-portrait-of-businesslike-man-wearing-white-s-Z7HX3UL"
+        },
+        {
+            "filename": "appdev.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/appdev.jpg",
+            "templates": [
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 102440,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-business-people-working-on-business-proje-HLY3QZC"
+        },
+        {
+            "filename": "dektop.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/dektop.jpg",
+            "templates": [
+                {
+                    "source": "templates\/it-services.json",
+                    "name": "IT services"
+                }
+            ],
+            "filesize": 102430,
+            "dimensions": [
+                392,
+                392
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-man-working-on-startup-PT387M4"
+        },
+        {
+            "filename": "services-detail1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services-detail1-600x295.jpg",
+            "templates": [
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 78954,
+            "dimensions": [
+                900,
+                443
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-having-brainstorm-PMJH8Y4"
+        },
+        {
+            "filename": "services-detail2.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services-detail2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 149521,
+            "dimensions": [
+                540,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-woman-with-badge-working-in-cozy-office-QDHEW9K"
+        },
+        {
+            "filename": "services-detail3-1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/services-detail3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 100781,
+            "dimensions": [
+                340,
+                371
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-couple-meeting-architect-for-future-house-PY4EUBA"
+        },
+        {
+            "filename": "icon-shield-sv.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-shield-sv.png",
+            "templates": [
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 998,
+            "dimensions": [
+                29,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-analysis-sv.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-analysis-sv.png",
+            "templates": [
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 1485,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-analysis-sv01.png",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/icon-analysis-sv01.png",
+            "templates": [
+                {
+                    "source": "templates\/it-services-details.json",
+                    "name": "IT Services Details"
+                }
+            ],
+            "filesize": 862,
+            "dimensions": [
+                37,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "case-detail-1.jpg",
+            "thumbnail_url": "http:\/\/surielementor.com\/softokit\/wp-content\/uploads\/2020\/09\/case-detail-1-600x233.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 60123,
+            "dimensions": [
+                1030,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/company-employees-working-in-office-L3DQAV8"
+        }
+    ]
+}
